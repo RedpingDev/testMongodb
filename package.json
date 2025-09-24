@@ -1,0 +1,13 @@
+{
+  "name": "mongodb-json-example",
+  "version": "1.0.0",
+  "description": "MongoDB와 Docker를 사용한 JSON 데이터 저장 예제",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mongodb": "^5.1.0",
+    "express": "^4.18.2"
+  }
+}
